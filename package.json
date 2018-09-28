@@ -1,6 +1,6 @@
 {
   "name": "@jiubao/raf",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "requestAnimationFrame shim",
   "main": "dist/raf.es.js",
   "browser": "dist/raf.umd.js",
